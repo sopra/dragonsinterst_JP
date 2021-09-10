@@ -84,7 +84,7 @@
 
 3種類のゴールドトークンと2種類のナイトトークンを各プレイヤーに配り、残りはDragon's Mountainの近くに置いておくと良いでしょう。
 
-|| Players || Gold || Knights ||
+| Players | Gold | Knights |
 |-----|-----|-----|
 | 3 | 0 | 6 |
 | 4 | 0 | 3 |
